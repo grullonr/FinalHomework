@@ -1,0 +1,40 @@
+body{
+    background-color:lightgray;
+    font-family:'Courier New', Courier, monospace
+}
+
+.gifimage {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
+
+.newTitle {
+    font-size: 18;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    text-align: center;
+}
+
+.tabs {
+    text-align: center;
+}
+
+.maininfo {
+    margin-top: 60;
+    border: 1px solid orange;
+}
+
+.donationform{
+    text-align: center;
+    margin-top: 100;
+}
+
+.statement {
+    margin-top: 70;
+    border: 1px solid orange;
+}
